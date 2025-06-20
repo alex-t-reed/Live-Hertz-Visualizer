@@ -1,5 +1,7 @@
 # 🎧 Live Audio Hertz Visualizer
 
+Try it here: [https://musiccolors.netlify.app](https://musiccolors.netlify.app)
+
 Created by [Alex Reed Aparicio](https://www.linkedin.com/in/alextreed/)
 
 ---
